@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: pulse-resource-telemetry
+server:
+  port: 8084
+logging:
+  level:
+    root: INFO
+    io.hookline.pulse: INFO
