@@ -26,5 +26,3 @@ src/main/java/io/hookline/pulse/supply/ResourceTelemetryApplication.java
 src/main/java/io/hookline/pulse/supply/ResourceTelemetryService.java
 src/main/java/io/hookline/pulse/supply/model/TelemetryBalanceRequest.java
 ```
-
-Clone this directory on its own when publishing the telemetry microservice to GitHub.
